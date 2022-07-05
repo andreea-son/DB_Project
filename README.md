@@ -19,7 +19,7 @@
 * The previously represented model will be implemented in a database management system, installed locally:
    1. Creating tables (including constraints);
    2. Inserting data into the previously created tables.
-* Interaction with the database will be performed from an interface (preferably web) that will meet the following requirements:
+* Interaction with the database will be performed from an interface that will meet the following requirements:
    1. Listing content with the possibility of sorting;
    2. Editing information (edit/delete option for each record).
 
